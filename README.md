@@ -9,7 +9,7 @@ Static, dependency-free marketing site for Nataraj Circuits, a PCB manufacturer 
 - `assets/favicon.svg`, `robots.txt`, `sitemap.xml`
 
 ## Before going live
-1. **Contact details** — edit the `CONTACT` object at the top of `script.js` (email, phone, WhatsApp). Also update the fallback values in `index.html` (contact section, footer, WhatsApp button) and add the full factory address.
+1. **Contact details** — set in the `CONTACT` object at the top of `script.js` (email, phone, WhatsApp) and in `index.html` (contact section, footer, WhatsApp button, JSON-LD).
 2. **Pricing** — the quote estimator uses an indicative model in `PRICING` (`script.js`). Tune it to real rates.
 3. **Capabilities** — check the specs table, lead times and shipping times in `index.html` against what the factory actually offers.
 4. **Domain** — canonical URL, Open Graph URL, `robots.txt` and `sitemap.xml` assume `https://www.natarajcircuits.com/`.

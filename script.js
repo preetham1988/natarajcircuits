@@ -4,9 +4,9 @@
 
   // ---- Business contact details: update these in one place ----
   const CONTACT = {
-    email: "sales@natarajcircuits.com",
-    phoneDisplay: "+91 00000 00000",
-    phoneE164: "910000000000", // digits only, used for tel: and WhatsApp
+    email: "natarajcircuits@gmail.com",
+    phoneDisplay: "+91 94480 87659",
+    phoneE164: "919448087659", // digits only, used for tel: and WhatsApp
   };
 
   document.querySelectorAll('[data-contact="email"]').forEach((a) => {
